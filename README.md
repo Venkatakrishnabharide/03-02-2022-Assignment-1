@@ -1,1 +1,3 @@
-# 03-02-2022-Assignment-1
+n=int(input())
+l=[i for i in range(n,0,-1)]
+print(l)
